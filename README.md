@@ -9,6 +9,6 @@ This repository contains a source code to create a you own Crypto Currency token
 
 
 #### Setup 
-- Follow this [Article](https://cmjagtap.medium.com/monitoring-websites-using-grafana-and-prometheus-69ccf936310c) to setup grafana and prometheus for monitoring 
+- Follow this [Article](https://medium.com/geekculture/create-your-own-1-million-cryptocurrency-bd86f4f5e16d) to create a token.
 
 
